@@ -46,6 +46,9 @@ Key variables in the dataset:
 This project follows a structured approach to building an effective heart disease prediction model using machine learning.
 
 How to Run 
-git clone https://github.com/Victor-Johnson/ml-heart-diseases.git
-cd ml-heart-diseases
-pip install -r requirements.txt
+-----
+**git clone https://github.com/Victor-Johnson/ml-heart-diseases.git**
+
+**cd ml-heart-diseases**
+
+**pip install -r requirements.txt**
